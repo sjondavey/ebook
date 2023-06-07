@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+aggregate/
+env/
+inputs/
+outputs/
+sentiment_detail/
+summary*/
+
